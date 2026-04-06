@@ -2,7 +2,7 @@
 
 > **End-to-end data analytics project** | Python · scikit-learn · Power BI · DAX
 
-![Dashboard](outputs/dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png)
 
 ---
 
